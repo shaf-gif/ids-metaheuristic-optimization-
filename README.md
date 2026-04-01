@@ -77,5 +77,4 @@ This project implements and evaluates three metaheuristic algorithms for optimiz
 - Number of features selected
 - Computational runtime
 
-### Authors
-COMP2024 Group XXX
+
